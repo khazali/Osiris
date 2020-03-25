@@ -1,5 +1,5 @@
 <p>&nbsp;</p>
-<p><span style="font-family: 'Times New Roman', serif; font-size: 12pt;">Osiris software has been written by Ali Reza </span><span class="SpellE" style="font-family: 'Times New Roman', serif; font-size: 12pt;">Khaz'ali and Sadegh Bordbar.</span></p>
+<p><span style="font-family: 'Times New Roman', serif; font-size: 12pt;">Osiris software has been written by Ali Reza </span><span class="SpellE" style="font-family: 'Times New Roman', serif; font-size: 12pt;">Khaz'ali and <a href="https://github.com/bordbarsadegh">Sadegh Bordbar</a>.</span></p>
 <div class="WordSection1">
 <p class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman','serif'; mso-ascii-theme-font: major-bidi; mso-hansi-theme-font: major-bidi; mso-bidi-theme-font: major-bidi;">&nbsp;</span></strong></p>
 <p class="MsoNormal"><span class="SpellE"><strong><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman','serif'; mso-ascii-theme-font: major-bidi; mso-hansi-theme-font: major-bidi; mso-bidi-theme-font: major-bidi;">License</span></strong></span><strong><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman','serif'; mso-ascii-theme-font: major-bidi; mso-hansi-theme-font: major-bidi; mso-bidi-theme-font: major-bidi;"> and Citation</span></strong></p>
